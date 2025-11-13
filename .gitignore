@@ -1,0 +1,15 @@
+# .gitignore - Basic version
+
+# Environment variables
+.env
+*.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/

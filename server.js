@@ -1,0 +1,8 @@
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=giam_sat_ngap
+DB_USER=postgres
+DB_PASSWORD=123456
+
+EP_SECRET_CODE = NEPO
+SV_PORT = 3000
